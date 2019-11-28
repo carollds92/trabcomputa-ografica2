@@ -1,0 +1,14 @@
+Carolina Lourenço dos Santos - RA 1255924
+
+A Aplicação é uma imerssão em uma sala medieval, onde tem uma lareira, uma porta, candelabros, escudos, espadas, um espelho e uma caixa com uma luz mágica. 
+O usuário pode mover o cavaleiro com as setas do teclado. 
+
+Dos requisitos foram atingidos o 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 e 11. O 12, raycast, não foi feito com sucesso, pois a intenção era liberar o som ao passar pelo escudo. O código iniciou-se no arquivo Rugido.cs. 
+
+Para acessar o projeto: 
+
+trabalho02->Assets->Room
+
+Para realizar o download do trabalho acessar:
+
+https://github.com/carollds92/trabcomputa-ografica2
